@@ -1,0 +1,8 @@
+mcp[cli]
+langchain
+langchain-mcp-adapters
+langchain-groq
+langchain-ollama
+langgraph
+requests
+python-dotenv
