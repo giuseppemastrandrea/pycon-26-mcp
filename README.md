@@ -81,6 +81,13 @@ cp .env.example .env
 La `GROQ_API_KEY` si ottiene gratuitamente su <https://console.groq.com>. Il file `.env` **non va
 mai committato** (è già in `.gitignore`).
 
+
+### Colab notebook
+
+Puoi accedere ad una versione ridotta del workshop da questo link <https://colab.research.google.com/drive/1BMxAmA5v9KoG4DDM33NPivl4B5dPlQd0?usp=sharing>.
+
+Accedi sul tuo account Google e manda in run le celle!
+
 ---
 
 ## Come si esegue
@@ -141,3 +148,4 @@ npx @marp-team/marp-cli slides/slides.md -o slides/slides.html
 - **Python SDK** (`mcp`): <https://github.com/modelcontextprotocol/python-sdk>
 - **langchain-mcp-adapters**: <https://github.com/langchain-ai/langchain-mcp-adapters>
 - **PyCon Italia 2026**: <https://pycon.it>
+- **Data Masters**: <https://datamasters.it/>
